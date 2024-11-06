@@ -1,0 +1,5 @@
+*.exe
+#algumaPasta
+*.spy
+.vscode
+arquivo.txt
